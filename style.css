@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Imprima&display=swap');
+body{
+    font-family: "Imprima", sans-serif; 
+    background-color: rgb(247, 226, 201);
+}
+h2{color: rgb(255, 81, 0);}
+h1{color: rgb(255, 81, 0);}
+li::marker {
+    color: rgb(255, 81, 0);
+  }
